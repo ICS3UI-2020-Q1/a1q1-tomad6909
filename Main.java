@@ -22,7 +22,7 @@ public class Main {
     int degreesFarenheit = (degreesCelcius * 9) / 5 + 32;
 
     // tell the user the degrees farenheit
-    System.out.println("It is " + degreesFarenheit + " outside.");
+    System.out.println("It is " + degreesFarenheit + " degrees farenheit outside.");
 
 
   }
